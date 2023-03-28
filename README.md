@@ -9,3 +9,6 @@ HTML, CSS, Vanila JS를 이용하여 작성하는 간단한 쇼핑몰
 
 ## 사용 스택
 HTML, CSS, Javascript
+
+# 정리
+https://deeply-silence-9a4.notion.site/33bc962eb2934cf08f226c9af5c172cf
